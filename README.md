@@ -1,6 +1,6 @@
 # contributions-graph
 
-A Local Go application that generates a beautiful contribution graph for the past 6 to 12 months directly **in your Terminal**.
+A Local Go application that generates a beautiful contribution graph for the past 6 to 12 months directly in the Terminal.
 ![Contributions Graph](screenshot/graph.png)
 
 
@@ -28,7 +28,7 @@ A Local Go application that generates a beautiful contribution graph for the pas
     go build
   ```
 
-4. Configure your local repositories and email:
+4. Configure the local repositories and email:
   ```bash
     ./GraphCont -add /path/to/your/Directory
     ./GraphCont -email your@gmail.com
