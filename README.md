@@ -33,5 +33,3 @@ A Local Go application that generates a beautiful contribution graph for the pas
     ./GraphCont -add /path/to/your/Directory
     ./GraphCont -email your@gmail.com
   ```
-
-**In the future it will be remote**
